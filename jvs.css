@@ -6,3 +6,7 @@ body{
 #contact{
       text-align:right;
   }
+
+#logo{
+     float:left;
+  }
