@@ -11,6 +11,11 @@ body{
      float:left;
   }
 
+h1{
+  style="font:weight:100 size:large family:Heveletica, Arial, Serif;
+  color:red"
+  
+  
 h1,h2{
     height:10px;
   }
