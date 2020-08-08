@@ -10,3 +10,7 @@ body{
 #logo{
      float:left;
   }
+
+h1,h2{
+    height:10px;
+  }
