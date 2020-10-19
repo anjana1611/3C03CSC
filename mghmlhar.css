@@ -1,12 +1,10 @@
 body{
    width:60%;
    margin:auto;
-   border:1px solid;
   }
 h1{
   height=10px;
-  text-align:center;
-}
+  }
 #mainimage{
    float:center;
 }
