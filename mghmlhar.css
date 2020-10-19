@@ -1,12 +1,12 @@
 body{
-   style="width:60%;
+   width:60%;
    margin:auto;
-   border:1px solid"
+   border:1px solid;
   }
 h1{
-  style="height=10px;
-      text-align:center"
+  height=10px;
+  text-align:center;
 }
 #mainimage{
-   style="float:center"
+   float:center;
 }
