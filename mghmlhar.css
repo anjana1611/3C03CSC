@@ -3,10 +3,8 @@ body{
    margin:auto"
   }
 h1{
-  width:140px;
-  height:190px;
-  text-align:center
+  text-align:center;
 }
-mainimage{
+#mainimage{
    sloat:center;
 }
