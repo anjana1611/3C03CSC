@@ -2,3 +2,7 @@ body{
    width:60%;
    margin:auto;
    }
+table{
+   border=1;
+   width:40%;
+}
