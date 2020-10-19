@@ -3,6 +3,6 @@ body{
    margin:auto;
    }
 table{
-   border=1px;
-   width=40%;
+   border="1";
+   width="40%";
 }
