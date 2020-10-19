@@ -4,7 +4,8 @@ body{
    border:1px solid"
   }
 h1{
-  style="text-align:center"
+  style="height=10px;
+      text-align:center"
 }
 #mainimage{
    style="float:center"
